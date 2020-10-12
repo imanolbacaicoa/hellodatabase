@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 // agregamos esta linea
-const cors     = require('cors');
+
 
 
 
